@@ -11,8 +11,6 @@ function pilt2() {
 	document.getElementById("busi").src="http://jalgpall.ee/images/players/05254CBDA711AD9F4B31DEE56B1B4668";
 }
 
-window.alert("Avarda oma m6ttemaalima ,<@<.")
-
 function nimi1() {
 	document.getElementById("nimi1").src="https://media.istockphoto.com/photos/senior-man-shrugging-shoulders-picture-id91520053"
 }
