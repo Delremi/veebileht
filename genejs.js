@@ -12,3 +12,15 @@ function pilt2() {
 }
 
 window.alert("Avarda oma m6ttemaalima ,<@<.")
+
+function nimi1() {
+	document.getElementById("nimi1").src="https://media.istockphoto.com/photos/senior-man-shrugging-shoulders-picture-id91520053"
+}
+	function nimi2() {
+	document.getElementById("nimi2").src="https://media.istockphoto.com/photos/senior-man-shrugging-shoulders-picture-id91520053"
+}
+
+function nimi3() {
+	document.getElementById("nimi3").src="https://media.istockphoto.com/photos/senior-man-shrugging-shoulders-picture-id91520053"
+}
+

@@ -13,3 +13,86 @@ img {
     height: 50%;
 }
 
+
+
+
+
+
+
+.materjal{
+	width: 20%;
+	margin: 15px;
+	float:left;
+}
+#pealkiri{
+	color:white;
+}
+
+.avatar_img {
+	border-radius: 10px 10px 0 0;
+	max-width: 100%;
+	height:auto;
+}
+
+.box1{
+	display: flex; 
+	justify-content: center;
+}
+.infobox {
+	width: 20%;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	transition: 0.3s;
+	margin: 15px;
+	border-radius:10px;
+	float:left;
+	
+}
+	
+.infobox:hover {
+	box-shadow: 0 8px 16px 0 rgba(0.5,0.5,0.5,0.5);
+	transform: scale(1.05)
+}
+
+.infobox:hover > .infobox_text {
+	background-color:1094ec;
+}
+
+.infobox_text {
+	background-color: #1096f0;
+	padding: 1px;
+	border-radius: 0 0 10px 10px;
+	text-align: center;
+	overflow: auto;
+}
+
+
+body{
+	margin:0;
+	padding:0;
+}
+#ul_menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f34539;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4);
+
+}
+
+#li_menu {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: White;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: white;
+	color: #b62120;
+}
