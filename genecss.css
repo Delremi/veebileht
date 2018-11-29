@@ -18,7 +18,12 @@ img {
 	margin: 15px;
 	float:left;
 }
-#pealkiri{
+#h1_materjal{
+	color:#f34539;
+}
+
+#h1_kontakt{
+	text-align:center;
 	color:white;
 }
 
@@ -74,7 +79,7 @@ body{
 
 }
 
-#li_menu {
+.li_menu {
     float: right;
 }
 
