@@ -53,7 +53,7 @@ img {
 }
 
 .infobox:hover > .infobox_text {
-	background-color:#1094ec;
+	background-color:1094ec;
 }
 
 .infobox_text {
@@ -94,4 +94,8 @@ li a {
 li a:hover {
     background-color: white;
 	color: #b62120;
+}
+
+.button {
+	color: red;
 }
