@@ -8,6 +8,18 @@ h1 {
 	color: red;
 }
 
+#huvi {
+    color:aqua;
+}
+
+#kasutatud {
+    background-color:white
+}
+
+#kontakt {
+    background-color:#f34539;
+}
+
 img {
 	width: auto;
     height: 50%;
